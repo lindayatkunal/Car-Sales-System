@@ -1,2 +1,2 @@
-# Carsale
-java mini project for jp-2
+ar Sales System in Java is a desktop-based application designed to manage the buying and selling process of cars efficiently. The system allows users to add, update, and delete car records, manage customer information, process sales transactions, and generate sales reports. Built using Java and a database like MySQL, the application features a user-friendly interface and streamlines inventory tracking and customer management, making it ideal for car dealerships or showrooms.
+
